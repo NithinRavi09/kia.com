@@ -36,13 +36,16 @@ nav{
 .navleft{
     
     text-align: center;
-    /*background-color: aqua;*/
+   
     width: 35%;
+}
+.navtext:hover{
+    border-bottom: solid 3px black;
 }
 .navright{
     margin-right: 10px;
     text-align: right;
-    /*background-color: blue;*/
+   
 }
 .hdr{
 width: 100%;
